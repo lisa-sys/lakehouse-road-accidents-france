@@ -1,5 +1,4 @@
 pandas
 pyspark
-jupyter
 delta-spark
 python-dotenv
